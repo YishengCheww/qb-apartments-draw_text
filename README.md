@@ -6,3 +6,6 @@ You need to self translate to english cause in my case english are not my main l
 
 # Preview
 https://streamable.com/182f54
+
+# Depences
+https://github.com/jaxonfromkh/qb-ui
