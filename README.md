@@ -1,10 +1,7 @@
-# Note
-Target Version
-
 # qb-apartments
 Using drawtext and change apartment location to 3 alta area
 
-# note
+# Note
 You need to self translate to english cause in my case english are not my main launguage
 
 # Preview
@@ -18,3 +15,6 @@ https://streamable.com/182f54
 - [qb-weathersync](https://github.com/qbcore-framework/qb-weathersync) - To desync weather while inside
 - [qb-spawn](https://github.com/qbcore-framework/qb-spawn) - To spawn the player at apartment if last location was in apartment
 - [qb-ui](https://github.com/jaxonfromkh/qb-ui) - Nui Drawtext
+
+# Optional
+If You Want With Target：[Click Here](https://github.com/qbcore-framework/qb-interior)
